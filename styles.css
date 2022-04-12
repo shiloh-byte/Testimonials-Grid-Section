@@ -13,9 +13,9 @@ body {
 
 .main-grid {
     display: grid;
-    grid-column: 4;
+    grid-template-columns: 300px 330px 300px 320px;
     gap: 20px;
-    grid-auto-rows: minmax(100px, auto);
+    grid-auto-rows: 300px;
     padding: 25px;
     background-color: hsl(210, 46%, 95%);
     letter-spacing: .4px;
@@ -47,7 +47,7 @@ img {
     padding-right: 35px;
     padding-top: 20px;
     padding-bottom: 25px;
-    line-height: 20px;
+    line-height: 23px;
     box-shadow: 8px 8px 10px lightgrey;
 }
 
@@ -92,7 +92,7 @@ img {
     padding-right: 35px;
     padding-top: 20px;
     padding-bottom: 25px;
-    line-height: 20px;
+    line-height: 23px;
     box-shadow: 8px 8px 10px lightgrey;
 }
 
@@ -107,7 +107,7 @@ img {
     padding-right: 35px;
     padding-top: 20px;
     padding-bottom: 25px;
-    line-height: 23px;
+    line-height: 22px;
     box-shadow: 8px 8px 10px lightgrey;
 }
 
@@ -136,7 +136,7 @@ img {
     font-weight: 600;
 }
 .review {
-    margin-top: 8px;
+    margin-top: 15px;
     padding: 2px; 
     font-size: 13px;
 }
