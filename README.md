@@ -11,7 +11,7 @@ The designs were created to the following widths:
 Overview
 
 Links:
-Solution URL: 
+Solution URL: https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-section-Hy7yTTVV5
 Live Site URL: https://shiloh-byte.github.io/Testimonials-Grid-Section/
 
 My process:
