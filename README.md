@@ -7,7 +7,7 @@ Overview
 
 Links:
 Solution URL: 
-Live Site URL: 
+Live Site URL: https://shiloh-byte.github.io/Testimonials-Grid-Section/
 
 My process:
 Built with-
