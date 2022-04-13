@@ -30,4 +30,4 @@ Resource 1 -MDN Web Docs (https://developer.mozilla.org/en-US/).
 Author:
 Frontend Mentor - shiloh-byte
 Discord - tattooscape#7966
-Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.
+
