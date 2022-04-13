@@ -3,6 +3,11 @@
 Frontend Mentor - Testimonials grid section solution
 This is a solution to the Testimonials grid section challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
 Overview
 
 Links:
